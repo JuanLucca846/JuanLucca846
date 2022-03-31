@@ -1,16 +1,32 @@
-### Hi there 👋
+# meu nome é Juan
 
-<!--
-**JuanLucca846/JuanLucca846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## primeiramente vou me apresentar
 
-Here are some ideas to get you started:
+* Sou estudante de análise e desenvolvimento de sistemas;
+* Esse perfil é para divulgar minha evolução como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ferramentas que estou estudando
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="juan-html5" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="juan-css3" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"">
+  <img align="center" alt="juan-js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="juan-bootstrap" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="juan-jquery" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="juan-php" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</div>
+
+<div align="center">
+  <a href="https://github.com/JuanLucca846">
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=JuanLucca846&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLucca846&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+<div>
+
+
+## github stats
+
+  ![Snake animation](https://github.com/JuanLucca846/JuanLucca846/blob/output/github-contribution-grid-snake.svg)
+</div>
