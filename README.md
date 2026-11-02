@@ -64,19 +64,6 @@ I value clean, maintainable code, continuous learning, and understanding the fun
 - **Computer Science:** data structures, algorithms, software design, and programming fundamentals.
 - **Backend Engineering:** API design, system architecture, testing, and application performance.
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanLucca846&show_icons=true&hide_border=true&rank_icon=github" alt="Juan's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLucca846&layout=compact&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Let's connect and build something meaningful.
 
 [LinkedIn](https://linkedin.com/in/juanlucca846/) · [Email](mailto:lucca470@gmail.com)
